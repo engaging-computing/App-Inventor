@@ -2,7 +2,7 @@
 Contains the applications built in MIT App Inventor to interface with iSENSE.
 
 GitHub: https://github.com/AlanRosenthal/appinventor-sources  
-App Engine Instance: http://isense-ai2.appspot.com/  
+App Engine Instance: http://isenseai.appspot.com/  
 Build Server: http://ai2-build.cs.uml.edu:9990  
 Build Server Status: http://ai2-build.cs.uml.edu:9990/buildserver/health  
 Build Server Vars: http://ai2-build.cs.uml.edu:9990/buildserver/vars
